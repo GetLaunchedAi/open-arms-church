@@ -363,7 +363,6 @@
         width: 2rem;
         height: auto;
         display: block;
-        filter: hue-rotate(193.75deg);
     }
     #content-page-1402 .cs-item-text {
         font-size: 0.875rem;
@@ -872,7 +871,6 @@
     #services-563 .cs-icon {
         /* adds extra space between the icon and top of parent so it's more centered */
         margin-top: clamp(0.125rem, 0.47vw, 0.4375rem);
-        filter: hue-rotate(29.5deg);
     }
     #services-563 .cs-button-solid {
         font-size: 1rem;
@@ -966,7 +964,6 @@
         opacity: 0.8;
     }
     body.dark-mode #services-563 .cs-icon {
-        filter: brightness(150%);
     }
 }
 

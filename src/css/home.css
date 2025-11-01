@@ -870,6 +870,10 @@
     left: 0;
     bottom: 0;
   }
+  body.dark-mode #sbs-r .cs-picture2 {
+    background-color: var(--dark);
+    border: clamp(0.375em, 1.5vw, 0.75em) solid var(--dark);
+  }
   #sbs-r .cs-right {
     margin: auto;
     max-width: 33.875rem;
